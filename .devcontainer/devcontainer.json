@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "echo \"No build process defined for this repository.\""
+  }
+}
