@@ -24,25 +24,33 @@ assignees: ""
 [] Missing Updates for New Features
 [] Deprecated Features
 
-### Broken Links
+### Steps to Reproduce
 
-<!-- Provide details about the broken links -->
+<!-- Provide steps to reproduce the issue -->
 
-### Unclear Language
+### Severity
 
-<!-- Provide details about the unclear language -->
+<!-- Indicate the severity of the issue -->
 
-### Inconsistent Formatting
+### Screenshots
 
-<!-- Provide details about the inconsistent formatting -->
+<!-- Provide screenshots to illustrate the issue -->
 
-### Missing Information
+### Documentation Issues
 
-<!-- Provide details about the missing information -->
+<!-- Provide details about the documentation issues -->
 
-### Missing Updates for New Features
+### Related Issues
 
-<!-- Provide details about the missing updates for new features -->
+<!-- Link to other relevant issues or pull requests -->
+
+### Proposed Solution
+
+<!-- Suggest fixes or improvements -->
+
+### References
+
+<!-- Provide links to external resources or documentation -->
 
 ### Additional Information
 
