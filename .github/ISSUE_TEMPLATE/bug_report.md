@@ -29,3 +29,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Documentation Issues**
+If this bug is related to documentation, please provide details here.

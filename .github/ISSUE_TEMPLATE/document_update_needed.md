@@ -24,6 +24,26 @@ assignees: ""
 [] Missing Updates for New Features
 [] Deprecated Features
 
+### Broken Links
+
+<!-- Provide details about the broken links -->
+
+### Unclear Language
+
+<!-- Provide details about the unclear language -->
+
+### Inconsistent Formatting
+
+<!-- Provide details about the inconsistent formatting -->
+
+### Missing Information
+
+<!-- Provide details about the missing information -->
+
+### Missing Updates for New Features
+
+<!-- Provide details about the missing updates for new features -->
+
 ### Additional Information
 
 <!-- Add any other context, screenshots, or relevant information about the issue -->
