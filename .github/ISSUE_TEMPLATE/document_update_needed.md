@@ -27,3 +27,15 @@ assignees: ""
 ### Additional Information
 
 <!-- Add any other context, screenshots, or relevant information about the issue -->
+
+### Suggested Improvements
+
+<!-- Provide suggestions for how the documentation can be improved -->
+
+### Impact
+
+<!-- Describe the impact of the issue on users and the importance of addressing it -->
+
+### Related Issues
+
+<!-- If there are any related issues or pull requests, link them here -->
