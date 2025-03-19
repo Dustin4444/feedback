@@ -22,3 +22,10 @@
 
 _\* You may also want to see the [FAQ and knowledge base](https://codecovpro.zendesk.com/hc/en-us) to help find an answer to your problem. This is the same place for paid customers to submit support tickets._
 
+### Issue Templates
+
+We have the following issue templates available for you to use:
+
+- [Bug Report](https://github.com/codecov/feedback/issues/new?template=bug_report.md)
+- [Feature Request](https://github.com/codecov/feedback/issues/new?template=feature_request.md)
+- [Documentation Update](https://github.com/codecov/feedback/issues/new?template=document_update_needed.md)

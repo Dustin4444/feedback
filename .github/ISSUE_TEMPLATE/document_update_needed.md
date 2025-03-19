@@ -4,6 +4,7 @@ about: Report an issue with our documentation
 title: "[Docs Update] Brief description of the issue"
 labels:
   - Docs
+  - documentation
 assignees: ""
 ---
 

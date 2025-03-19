@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an new feature or enhancement for Codecov
 title: Feature Request
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
