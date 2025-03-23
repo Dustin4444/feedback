@@ -17,12 +17,20 @@ assignees: ""
 
 ### Current State
 
-[] Broken Link
-[] Unclear Language
-[] Inconsistent Formatting
-[] Missing Information
-[] Missing Updates for New Features
-[] Deprecated Features
+- [ ] Broken Link
+- [ ] Unclear Language
+- [ ] Inconsistent Formatting
+- [ ] Missing Information
+- [ ] Missing Updates for New Features
+- [ ] Deprecated Features
+
+### Specific Updates
+
+<!-- Provide detailed information about the required updates -->
+
+### Additional Context
+
+<!-- Add any other context, screenshots, or relevant information about the issue -->
 
 ### Additional Information
 

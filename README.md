@@ -22,3 +22,15 @@
 
 _\* You may also want to see the [FAQ and knowledge base](https://codecovpro.zendesk.com/hc/en-us) to help find an answer to your problem. This is the same place for paid customers to submit support tickets._
 
+### Documentation Issues
+
+We are committed to keeping our documentation up-to-date and addressing any issues that may arise. Below are some common documentation issues and links to the relevant pages:
+
+- [Broken Links](https://github.com/codecov/feedback/issues/1)
+- [Unclear Language](https://github.com/codecov/feedback/issues/2)
+- [Inconsistent Formatting](https://github.com/codecov/feedback/issues/3)
+- [Missing Information](https://github.com/codecov/feedback/issues/4)
+- [Missing Updates for New Features](https://github.com/codecov/feedback/issues/5)
+- [Deprecated Features](https://github.com/codecov/feedback/issues/6)
+
+Keeping documentation up-to-date is crucial for providing accurate and helpful information to our users. If you notice any issues or have suggestions for improvements, please let us know by opening an issue.

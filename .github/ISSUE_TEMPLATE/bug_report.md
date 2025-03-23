@@ -27,5 +27,8 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Documentation Updates**
+If this bug is related to any documentation issues, please provide details here.
+
 **Additional context**
 Add any other context about the problem here.
